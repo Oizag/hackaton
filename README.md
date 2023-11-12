@@ -1,5 +1,8 @@
 
 # Flows Sentinenl
+
+<h1>Для корректной работы необходимо скачать дополнительные файлы и разархировать в /backend - https://disk.yandex.ru/d/jH3aFzZqO_MEUA</h1>
+
 <ul>
 <li>/frontend - Содержит материалы, разметку, шаблоны.</li>
 <li>/backend:</li>
