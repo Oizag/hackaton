@@ -1,7 +1,8 @@
 
 # Flows Sentinenl
 
-<h1>Для корректной работы необходимо скачать дополнительные файлы и разархировать в /backend - https://disk.yandex.ru/d/jH3aFzZqO_MEUA</h1>
+<h2>Для корректной работы необходимо скачать дополнительные файлы и разархировать в /backend - https://disk.yandex.ru/d/jH3aFzZqO_MEUA</h2>
+<h2>Desktop app - https://github.com/meowsl/hackaton-Stavropol</h2>
 
 <ul>
 <li>/frontend - Содержит материалы, разметку, шаблоны.</li>
