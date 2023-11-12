@@ -1,0 +1,8 @@
+static/*
+
+datasets
+
+*.h5
+*.avi
+*.weights
+yolov3.cfg
